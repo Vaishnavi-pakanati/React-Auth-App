@@ -48,7 +48,7 @@ import { signInWithFacebook, signInWithGithub, signInWithGoogle } from '../fire'
                   </div>
                   <div>
                     <button onClick = {signInWithGoogle} >
-                      Continue with Gogle
+                      Continue with Google login
                     </button>
                     </div>
                     <br>
